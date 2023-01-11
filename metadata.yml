@@ -1,0 +1,12 @@
+---
+:id: 142276843
+:submitters:
+- :name: Nathan Hardy
+  :email: nlhardy@umass.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-10-20 03:37:59.480792000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-10-19 20:37:59.480792000 Z
+:status: processed
+:score: 70.0
